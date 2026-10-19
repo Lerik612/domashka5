@@ -38,6 +38,7 @@ t = (verl/niz1) • S
 <img width="658" height="1218" alt="image" src="https://github.com/user-attachments/assets/953b8b77-fabd-48c3-9edc-69a042bdbce6" />
 
 ## 2. Реализация программы
+```c
 #include <stdio.h>
 
 #include <math.h>
@@ -69,6 +70,7 @@ int main() {
 
 	return 0;
 }
+```
 
 ## 3. Результаты работы программы
 Введите значение х: 14,26
